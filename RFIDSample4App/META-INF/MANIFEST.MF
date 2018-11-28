@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: . /platform/lib/Symbol.RFID.API3.jar
+Main-Class: org.zebra.RFIDSample4App.RFIDSample4App
